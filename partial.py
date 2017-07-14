@@ -1,0 +1,4 @@
+import functools
+int2 = functools.partial(int,base=2)
+print(int2('10000000000'))
+print(int2('1010101'))
