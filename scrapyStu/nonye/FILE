@@ -1,0 +1,2 @@
+2017-10-15 23:13:29 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: nonye)
+2017-10-15 23:13:29 [scrapy.utils.log] INFO: Overridden settings: {'NEWSPIDER_MODULE': 'nonye.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['nonye.spiders'], 'LOG_FILE': 'FILE', 'BOT_NAME': 'nonye'}
